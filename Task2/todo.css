@@ -1,0 +1,21 @@
+h2{
+	text-align: center;
+}
+
+checkbox{
+	width: 100px; height: 100px;
+}
+
+#my{
+	width: 50%;
+	display: inline;
+	margin-left: 20%;
+}
+
+button{
+	margin-left: 10px;
+}
+.card{
+	margin: auto;
+	margin-top: 20px;
+}

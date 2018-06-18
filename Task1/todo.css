@@ -1,0 +1,14 @@
+#my{
+	width: 50%;
+	height: 30px;
+}
+button{
+	width: 50px;
+	height: 30px;
+}
+li{
+	padding: 20px;
+	width: 50%;
+	list-style-type: decimal-leading-zero;
+	border: 1px solid black;
+}
