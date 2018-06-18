@@ -8,8 +8,11 @@ function func1(){
 	up.innerText = "UP";
 	down.innerText = "DOWN";
 	but.style.marginLeft="10px";
+  but.ClassName ="btn btn-primary";
 	up.style.marginLeft="10px";
+  up.ClassName = "btn btn-primary";
 	down.style.marginLeft="10px";
+  down.ClassName = "btn btn-primary";
 	var li =document.createElement('li');
 	li.innerHTML=text;
 	li.ClassName="li";
